@@ -20,5 +20,6 @@
     },
     "autoload": {
         "psr-0": { "HungCP\\PhpSimpleHtmlDom\\HtmlDomParser": "src/" }
-    }
+    },
+	"minimum-stability": "dev"
 }
