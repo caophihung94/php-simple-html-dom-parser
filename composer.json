@@ -1,6 +1,6 @@
 {
     "name": "caophihung94/php-simple-html-dom-parser",
-    "description": "PHP Simple HTML DOM Parser with namespace and PHP 7.3 compatible",
+    "description": "PHP Simple HTML DOM Parser with namespace and PHP 7.4 compatible",
     "keywords": ["html", "dom", "simple", "html dom parser"],
     "homepage": "http://simplehtmldom.sourceforge.net/",
     "type": "library",
