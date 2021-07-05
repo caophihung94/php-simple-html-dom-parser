@@ -1,7 +1,7 @@
 php-simple-html-dom-parser
 ==========================
 
-Version 1.9.1 - PHP 7.4 compatible
+Version 1.9.1 - PHP 8.x compatible
 PHP Simple HTML DOM Parser changelog: https://sourceforge.net/projects/simplehtmldom/files/simplehtmldom/1.9.1/
 
 
